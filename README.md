@@ -1,2 +1,2 @@
 # sudoku-solver
-it solves sudokus
+it solves sudokus super fast! 
